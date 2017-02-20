@@ -1,45 +1,31 @@
 #main-headline {
-
 text-align: center;
 color: blue;
-
 }
 
 h1 {
-
 text-align: center; 
 color: blue;
-
 }
 
 h2 {
-
 text-align: center;
-
 }
 
 .placedescription {
-
 color: purple;
-
 }
 
 .topfavortite {
-
 color: red;
 font-style: italic;
 font-weight: bold;
-
 }
 
 .important-point {
-
 text-decoration: underline;
-
 }
 
 .emphasis { 
-
 font-style: italic;
-
 }
